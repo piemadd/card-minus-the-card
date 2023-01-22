@@ -322,7 +322,7 @@ function App() {
           <h2>to: [redacted]</h2>
           <h2>from: piero</h2>
           <section>
-            <p>sus</p>
+            <p>i removed the card lol, nice try</p>
           </section>
         </main>
       ) : (
